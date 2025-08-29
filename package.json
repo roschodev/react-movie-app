@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
-    "appwrite": "^18.1.1",
+    "appwrite": "^18.2.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-sidebar-library": "github:roschodev/react-components-library",
     "react-use": "^17.6.0"
   },
   "devDependencies": {
